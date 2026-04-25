@@ -95,5 +95,4 @@ User → UI → JavaScript → LocalStorage → UI Update
 
 ## 👨‍💻 Author
 
-Your Name
-(You can add your LinkedIn profile link here)
+Prakruthi M Pawar
