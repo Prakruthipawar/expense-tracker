@@ -54,8 +54,8 @@ User → UI → JavaScript → LocalStorage → UI Update
 ## 📂 Project Structure
 
 * expense-tracker.html
-* styles.css (if used)
-* script.js (if separate JS file)
+* styles.css 
+* script.js 
 
 ---
 
